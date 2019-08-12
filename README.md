@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=Nl8UkrnbbVc&list=PLgwcD-3WBz9lqyHv9zBfsPiT_FPQTY
 
 # Core Data Stack
 대부분의 작업은 context에서 제공하는 api에서 진행되며 , 나머지 세 객체는 초기화 시점을 제외하고는 자주 사용되지 않음.
-![6](./images/6.tiff)
+![6](./images/6.png)
 
 
 
@@ -61,7 +61,7 @@ https://www.youtube.com/watch?v=Nl8UkrnbbVc&list=PLgwcD-3WBz9lqyHv9zBfsPiT_FPQTY
 
 # Persistent Container :NSPersistentContainer
 ### core data stack을 캡슐화 한 객체. Appdelegate.swift 구현하여 싱글톤으로 사용한다.
-![7](./images/7.tiff)
+![7](./images/7.png)
 
 
 
@@ -91,8 +91,7 @@ CoreData Stack 처럼 data를 fetch할 때 필요한 객체들의 stack이라고
 context의  데이터 요청(request)을 받고 data를 가져오는(fetch) 일련의 과정들을 관리해줌.
 
 
-![10](./images/10.tiff)
-![11](./images/11.tiff)
+![10](./images/10.png)
 
 
 
