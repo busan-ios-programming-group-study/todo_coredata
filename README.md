@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=Nl8UkrnbbVc&list=PLgwcD-3WBz9lqyHv9zBfsPiT_FPQTY
 
 
 # Persistent Container :NSPersistentContainer
-### core data stack을 캡슐화 한 객체. Appdelegate.swift 구현하여 싱글톤으로 사용한다.
+### core data stack을 캡슐화 한 객체. Appdelegate.swift 파일에 구현하여 싱글톤으로 사용한다.
 ![7](./images/7.png)
 
 
